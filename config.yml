@@ -1,0 +1,432 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config:
+        menu:
+          contents:
+            suggested-value:
+              rat:
+                - name: ApeX-AI-Rat
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Rat/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              snake:
+                - name: ApeX-AI-Snake
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              pig:
+                - name: ApeX-AI-Pig
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Pig/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              wolf:
+                - name: ApeX-AI-Wolf
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Wolf/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              saladin:
+                - name: ApeX-AI-Saladin
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Saladin/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              caliph:
+                - name: ApeX-AI-Caliph
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Caliph/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              sultan:
+                - name: ApeX-AI-Snake
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              richard:
+                - name: ApeX-AI-Richard
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Richard/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              frederick:
+                - name: ApeX-AI-Frederick
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Frederick/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              phillip:
+                - name: ApeX-AI-Phillip
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Phillip/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              wazir:
+                - name: ApeX-AI-Wazir
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Wazir/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              emir:
+                - name: ApeX-AI-Emir
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Emir/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              nizar:
+                - name: ApeX-AI-Nizar
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Nizar/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              sheriff:
+                - name: ApeX-AI-Sheriff
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Sheriff/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              marshal:
+                - name: ApeX-AI-Marshall
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Marshall/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              abbot:
+                - name: ApeX-AI-Abbot
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Abbot/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+        defaultLanguage:
+          contents:
+            suggested-value: null
+        ai:
+          rat:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Rat
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Rat/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Rat
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Rat/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Rat
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Rat/
+                  active: true
+          snake:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Snake
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Snake
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Snake
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  active: true
+          pig:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Pig
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Pig/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Pig
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Pig/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Pig
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Pig/
+                  active: true
+          wolf:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Wolf
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Wolf/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Wolf
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Wolf/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Wolf
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Wolf/
+                  active: true
+          saladin:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Saladin
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Saladin/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Saladin
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Saladin/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Saladin
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Saladin/
+                  active: true
+          caliph:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Caliph
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Caliph/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Caliph
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Caliph/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Caliph
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Caliph/
+                  active: true
+          sultan:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Snake
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Snake
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Snake
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  active: true
+          richard:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Richard
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Richard/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Richard
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Richard/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Richard
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Richard/
+                  active: true
+          frederick:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Frederick
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Frederick/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Frederick
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Frederick/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Frederick
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Frederick/
+                  active: true
+          phillip:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Phillip
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Phillip/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Phillip
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Phillip/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Phillip
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Phillip/
+                  active: true
+          wazir:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Wazir
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Wazir/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Wazir
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Wazir/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Wazir
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Wazir/
+                  active: true
+          emir:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Emir
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Emir/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Emir
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Emir/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Emir
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Emir/
+                  active: true
+          nizar:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Nizar
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Nizar/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Nizar
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Nizar/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Nizar
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Nizar/
+                  active: true
+          sheriff:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Sheriff
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Sheriff/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Sheriff
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Sheriff/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Sheriff
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Sheriff/
+                  active: true
+          marshal:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Marshall
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Marshall/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Marshall
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Marshall/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Marshall
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Marshall/
+                  active: true
+          abbot:
+            aic:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Abbot
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Abbot/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Abbot
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Abbot/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: ApeX-AI-Abbot
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Abbot/
+                  active: true
+  plugins:
+    ApeX-AI-Behaviour:
+      config: {}
+meta:
+  version: 1.0.0
