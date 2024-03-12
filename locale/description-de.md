@@ -1,3 +1,3 @@
 # ApeX-AI-Behaviour-Applied
 
-Alles KIs slots ist mit der ApeX-AI ausgestattet.
+Alle KIs Slots sind mit der ApeX-AI ausgestattet.
