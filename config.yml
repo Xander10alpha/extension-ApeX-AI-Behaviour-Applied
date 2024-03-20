@@ -48,8 +48,8 @@ config-sparse:
                     lord: true
                     startTroops: true
               sultan:
-                - name: ApeX-AI-Snake
-                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                - name: ApeX-AI-Sultan
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Sultan/
                   control:
                     aic: true
                     lord: true
@@ -239,20 +239,20 @@ config-sparse:
             aic:
               contents:
                 suggested-value:
-                  name: ApeX-AI-Snake
-                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  name: ApeX-AI-Sultan
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Sultan/
                   active: true
             lord:
               contents:
                 suggested-value:
-                  name: ApeX-AI-Snake
-                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  name: ApeX-AI-Sultan
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Sultan/
                   active: true
             startTroops:
               contents:
                 suggested-value:
-                  name: ApeX-AI-Snake
-                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Snake/
+                  name: ApeX-AI-Sultan
+                  root: ucp/plugins/ApeX-AI-Behaviour/resources/ai/Sultan/
                   active: true
           richard:
             aic:
