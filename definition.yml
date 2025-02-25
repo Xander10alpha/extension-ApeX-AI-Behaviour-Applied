@@ -5,3 +5,5 @@ dependencies:
   ApeX-AI-Behaviour: ^1.4.0
   framework: ^3.0.0
   frontend: ^1.0.0
+meta:
+  version: 1.0.0
